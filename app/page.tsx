@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "App Router",
+  title: "App Router, CI/CD Learning",
 };
 
 export default function Page() {
